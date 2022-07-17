@@ -1,5 +1,3 @@
-import {Router, Switch} from react-router-dom;
-
 import Header from './components/Header/Header';
 import Footer from './components/Footer/Footer';
 import './App.css';
@@ -9,11 +7,7 @@ function App() {
     <div className="container">
       <Header />
 
-      <Switch>
-    
-      <Route path=""/>
-  
-      </Switch>
+      <h1>Hello</h1>
 
       <Footer />
     </div>
