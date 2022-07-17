@@ -23,6 +23,12 @@ const Header = () => {
                     </ul>
                 </section>
             </nav>
+            <style jsx>{`
+                p {
+                    color:red;
+                }
+            `}
+            </style>
         </header>
     )
 }
