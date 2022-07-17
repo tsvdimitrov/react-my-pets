@@ -51,7 +51,6 @@ const Header = () => {
                 margin-right: 0.5rem;
                 }
 
-
             nav.navbar ul {
             background: transparent;
             padding: 0.5rem;
